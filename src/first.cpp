@@ -1,5 +1,6 @@
 #include "first.h"
 A::A()
+	: m_count(1)
 {
 	std::cout<<"ctor"<<std::endl;
 }
