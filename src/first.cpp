@@ -8,3 +8,7 @@ A::~A()
 {
 	std::cout<<"dctor";
 }
+void A::show()
+{
+
+}
