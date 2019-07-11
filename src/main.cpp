@@ -7,4 +7,5 @@ int main(int argc, char **argv)
 
     cout << "cl1 line/n";
     cout<<"first line\n";
+    cout<<"second line\n";
 }
