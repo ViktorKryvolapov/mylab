@@ -1,4 +1,5 @@
 #include <iostream>
+#include "first.h"
 using namespace std;
 
 int main(int argc, char **argv)
@@ -9,4 +10,7 @@ int main(int argc, char **argv)
     cout<<"second line\n";
     cout<<"first line\n";
     cout<<"third line\n";
+
+    A obj;
+    cout<<obj.getCount()<<endl;
 }
