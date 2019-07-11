@@ -8,4 +8,9 @@ int main(int argc, char **argv)
     cout << "cl1 line/n";
     cout<<"first line\n";
     cout<<"third line\n";
+	
+    cout << "final line \n";
+
+    A obj;
+    cout<<obj.getCount()<<endl;
 }
