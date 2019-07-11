@@ -9,5 +9,5 @@ A::~A()
 }
 void A::show()
 {
-
+	cout << "hello world\n";
 }
