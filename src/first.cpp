@@ -1,5 +1,6 @@
 #include "first.h"
 A::A()
+	m_name("default")
 {
 	std::cout<<"ctor"<<std::endl;
 }
