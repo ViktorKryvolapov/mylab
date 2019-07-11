@@ -6,5 +6,5 @@ int main(int argc, char **argv)
     cout << "Hello world" << endl;
 
     cout << "cl1 line/n";
-
+    cout<<"first line\n";
 }
